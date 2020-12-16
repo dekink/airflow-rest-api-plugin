@@ -195,7 +195,7 @@ Plugin enables JWT Token based authentication for Airflow versions 1.10.4 or hig
  sample response returns the renewed access token as shown below.
     
     {
-        "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1Njc3NzI4NzUsIm5iZiI6MTU2Nzc3Mjg3NSwianRpIjoiMjE3Y2FhYzItYTQ1NS00MWMxLWI5OGUtOTRhYWU0OTcyZTljIiwiZXhwIjoxNTY3NzczMTc1LCJpZGVudGl0eSI6NSwiZnJlc2giOmZhbHNlLCJ0eXBlIjoiYWNjZXNzIn0.NoHaqc9caqk2B_cfutGO3U3Ih95lF0m9hvTPs5B_sE0"
+        "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1Njc3NzI4NzUsIm5iZiI6MTU2Nzc3Mjg3NSwianRpIjoiMjE3Y2FhYzItYTQ1NS00MWMxLWI5OGUtOTRhYWU0OTcyZTljIiwiZXhwIjoxNTY3NzczMTc1LCJpZGVudGl0eSI6NSwiZnJlc2giOmZhbHNlLCJ0eXBlIjoiYWNjZXNzIn0.NoHaqc9caqk2B_cfutGO3U3Ih95lF0m9hvTPs5B_sE0"
     }
  
 
